@@ -1,9 +1,5 @@
-# simple neural nets tutorial
+# simple neural nets
 
-This codebase and tutorial will guide you through the process of constructing neural networks from scratch, exclusively in numpy. In this tutorial, you will implement three fundamental architectures: feedforward, recurrent, and convolutional. 
+This codebase provides the skeletal structure for implementing neural networks from scratch, exclusively in numpy. Fill in the blanks to implement three fundamental neural network architectures: feedforward, recurrent, and convolutional. 
 
-This is an accompaniment to a larger project, [simple-neural-nets](github.com/sophiaas/simple-neural-nets), which contains pedagogical implementations of a variety of neural network architectures, written exclusively in numpy.
-
-Walkthrough tutorial coming soon as of April 29th, 2020. For now, try your hand at completing the codebase yourself!
-
-_I originally wrote this codebase while a graduate student instructor for UC Berkeley's Machine Learning course, CS189/289A. It was used as the 6th homework assignment in the spring 2020 semester. [sagnibak](https://github.com/sagnibak) is a contributor._
+I wrote this codebase while a graduate student instructor for UC Berkeley's Machine Learning course, CS189/289A. It was used as the 6th homework assignment in the spring 2020 semester. [sagnibak](https://github.com/sagnibak) is a contributor.
